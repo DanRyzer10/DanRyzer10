@@ -2,8 +2,8 @@
 
 <p><em>Software Enginner at <a href="https://www.ug.edu.ec">Universidad de Guayaquil </a><img src="https://media.giphy.com/media/XqKu2VpXi9Nkj19dqq/giphy.gif" width="30"> 
 </em></p>
-<a href="https://www.instagram.com/absphreak" target="_blank "><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.youtube.com/channel/UCUlr-y5JBlFqwABp2jsFwNw?sub_confirmation=1" target= "_blank"  ><img src="https://img.shields.io/youtube/channel/subscribers/UCUlr-y5JBlFqwABp2jsFwNw?style=social" alt="Instagram"></a>
+<a href="https://www.instagram.com/angel._.daniel.0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.youtube.com/channel/UCUlr-y5JBlFqwABp2jsFwNw?sub_confirmation=1" target="_blank" ><img src="https://img.shields.io/youtube/channel/subscribers/UCUlr-y5JBlFqwABp2jsFwNw?style=social" alt="Instagram"></a>
 
 <a href="https://www.youtube.com/channel/UCUlr-y5JBlFqwABp2jsFwNw?sub_confirmation=1" target= "_blank"  ><img src="https://img.shields.io/github/followers/DanRyzer10?style=social" alt="Instagram"></a>
 
