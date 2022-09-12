@@ -13,7 +13,7 @@
 
 ```javascript
 const DanRyzer = {
-  pronouns: "she" | "her",
+  pronouns: "He" | "his",
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Node, Storybook, Docker],
   
