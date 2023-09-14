@@ -1,35 +1,28 @@
-<h2> Hi, I'm Angel! <img src="https://media.giphy.com/media/xT9IgBs921QcFeC0ms/giphy.gif" width="50"></h2>
+# Hi, There 👋
 
-<p><em>Software Enginner at <a href="https://www.ug.edu.ec">Universidad de Guayaquil </a><img src="https://media.giphy.com/media/XqKu2VpXi9Nkj19dqq/giphy.gif" width="30"> 
-</em></p>
-<a href="https://www.instagram.com/angel._.daniel.0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.youtube.com/channel/UCUlr-y5JBlFqwABp2jsFwNw?sub_confirmation=1" target="_blank" ><img src="https://img.shields.io/youtube/channel/subscribers/UCUlr-y5JBlFqwABp2jsFwNw?style=social" alt="Instagram"></a>
+## Hello 👋, My name is **`Angel`**. I'm a **`Full Stack Developer`** from **`Ecuador`**.
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Astro, Laravel (JavaScript, APIs + Markup) and MongoDb.
 
-<a href="https://www.youtube.com/channel/UCUlr-y5JBlFqwABp2jsFwNw?sub_confirmation=1" target= "_blank"  ><img src="https://img.shields.io/github/followers/DanRyzer10?style=social" alt="Instagram"></a>
+I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. If you found value in something I have created, please feel free to give me a shout out [@angelxehg](https://twitter.com/Danryzer007).
 
+I love to learn about new technologies, what problems are they solving and How can I use them to build better and scalable products.
 
-
-### <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const DanRyzer = {
-  pronouns: "He" | "his",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Node, Storybook, Docker],
-  
-
-}
-```
-
-**Languages and Tools:**
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
+### skills
+- **Languages**: `JavaScript`, `PHP`, `Python`, `Java`, `C#`
+- **Frontend**: `HTML`, `CSS`,`Tailwind`, `Vue`, `Astro`
+- **Backend**: `Node`, `Django`, `Laravel`, `MongoDB`, `MySQL`
+- **DevOps**: `Docker`, `GitHub Actions`, `AWS`, `Heroku`
+- **Tools**: `Git`, `GitHub`, `VS Code`, `Postman`, `Insomnia`, `Figma`
 
 
-<!---
-DanRyzer10/DanRyzer10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img src='img/github.svg' alt='github' height='40'>](https://github.com/DanRyzer10)
+[<img src="img/instagram.svg" alt='instagram' height='40'>](https://www.instagram.com/dan_anz20)
+[<img src="img/x.svg" alt='x' height='40'>](https://twitter.com/Danryzer007)
+
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Design Patterns, Data Structures and Algorithms. 
+- 📫 How to reach me: danryzer (Twitter, Linkedin, Instagram) 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to play guitar and play video games.
+
