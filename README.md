@@ -7,14 +7,14 @@ I have a passion for learning and sharing my knowledge with others in a way that
 
 I love to learn about new technologies, what problems are they solving and How can I use them to build better and scalable products.
 
-### skills
-- **Languages**: `JavaScript`, `PHP`, `Python`, `Java`, `C#`
-- **Frontend**: `HTML`, `CSS`,`Tailwind`, `Vue`, `Astro`
-- **Backend**: `Node`, `Django`, `Laravel`, `MongoDB`, `MySQL`
-- **DevOps**: `Docker`, `GitHub Actions`, `AWS`, `Heroku`
-- **Tools**: `Git`, `GitHub`, `VS Code`, `Postman`, `Insomnia`, `Figma`
+### 💾 Tech Stack
+- **Languages**: `JavaScript`, `PHP`,`Java`, `C#`
+- **Frontend**: `HTML`, `CSS`,`Tailwind`, `Vue`
+- **Backend**: `Node`, `Laravel`, `MongoDB`, `MySQL`
+- **DevOps**: `Docker`, `GitHub Actions`, `Azure`
+- **Tools**: `Git`, `GitHub`, `VS Code`, `Postman`, `Figma`
 
-
+### 🌐 Social Media
 [<img src='img/github.svg' alt='github' height='40'>](https://github.com/DanRyzer10)
 [<img src="img/instagram.svg" alt='instagram' height='40'>](https://www.instagram.com/dan_anz20)
 [<img src="img/x.svg" alt='x' height='40'>](https://twitter.com/Danryzer007)
